@@ -1,0 +1,4 @@
+repository "learn@hamgyeongmin@cloud"
+  path "/"
+    br "/main"
+    co "/main"
